@@ -11,10 +11,10 @@ This is an Interview Management System that helps manage candidate details and i
 - Basic UI using React
 
 ## 🛠️ Tech Stack
-- React.js
-- JavaScript
-- HTML
-- CSS
+
+- Frontend: React.js, HTML, CSS, JavaScript  
+- Backend: Spring Boot (Java)  
+- Database: MySQL  
 
 ## 🔮 Future Improvements
 - Admin Dashboard
